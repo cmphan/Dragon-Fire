@@ -8,7 +8,7 @@ forward infinitely and score as much as possible.
 
 
 ## Game Scene 
-![](dragon_fire.gif)
+![](dargon_fire.gif)
 
 ## Development
 
